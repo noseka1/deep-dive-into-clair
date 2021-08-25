@@ -2,36 +2,26 @@
 
 ## Vulnerability Databases
 
-Alpine security database
-https://secdb.alpinelinux.org/
-
-Amazon Linux security database repodata/updateinfo.xml.gz
-https://cdn.amazonlinux.com/2/core/2.0/x86_64/3c5ff503186aefc295ca296adf15aa0884f998fff0c78d5fc6448735eb664d26/repodata/updateinfo.xml.gz
-
-Debian security database
-https://www.debian.org/security/oval/
-
-Oracle Linux security database
-https://linux.oracle.com/security/oval/
-
-Python security database
-https://github.com/pyupio/safety-db
-
-RHEL security database
-https://www.redhat.com/security/data/oval/v2/PULP_MANIFEST
-
-SUSE
-https://support.novell.com/security/oval/
-
-Ubuntu
-https://ubuntu.com/security/oval
-
-VMware Photon security database
-https://packages.vmware.com/photon/photon_oval_definitions/
-
-CVSS enrichment
-https://nvd.nist.gov/vuln/data-feeds
-
+* Alpine security database
+  https://secdb.alpinelinux.org/
+* Amazon Linux security database repodata/updateinfo.xml.gz
+  https://cdn.amazonlinux.com/2/core/2.0/x86_64/3c5ff503186aefc295ca296adf15aa0884f998fff0c78d5fc6448735eb664d26/repodata/updateinfo.xml.gz
+* Debian security database
+  https://www.debian.org/security/oval/
+* Oracle Linux security database
+  https://linux.oracle.com/security/oval/
+* Python security database
+  https://github.com/pyupio/safety-db
+* RHEL security database
+  https://www.redhat.com/security/data/oval/v2/PULP_MANIFEST
+* SUSE
+  https://support.novell.com/security/oval/
+* Ubuntu
+  https://ubuntu.com/security/oval
+* VMware Photon security database
+  https://packages.vmware.com/photon/photon_oval_definitions/
+* CVSS enrichment
+  https://nvd.nist.gov/vuln/data-feeds
 
 ## Using cctool to Scan an Image
 
