@@ -1,5 +1,10 @@
 # Deep Dive into Clair Image Vulnerability Scanning
 
+## Clair Documentation
+
+* [What is ClairCore](https://quay.github.io/claircore/what_is.html)
+* [Updaters and Defaults](https://quay.github.io/claircore/concepts/updater_defaults.html)
+
 ## Vulnerability Databases
 
 * Alpine security database
