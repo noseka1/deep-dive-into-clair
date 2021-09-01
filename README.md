@@ -100,3 +100,7 @@ Create vulnerability report:
 ```
 $ curl --data-binary @index.json -X POST http://localhost:8081/vulnerability_report > report.json
 ```
+
+## Video
+
+[![Deep Dive into Clair Image Vulnerability Scanning](https://img.youtube.com/vi/kLpEbUBn06A/0.jpg)](http://www.youtube.com/watch?v=kLpEbUBn06A)
